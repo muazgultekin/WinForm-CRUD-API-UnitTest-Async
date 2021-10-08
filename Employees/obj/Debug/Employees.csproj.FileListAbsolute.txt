@@ -1,0 +1,14 @@
+C:\Users\muaz.gultekin\Desktop\Employees\Employees\bin\Debug\Employees.exe.config
+C:\Users\muaz.gultekin\Desktop\Employees\Employees\bin\Debug\Employees.exe
+C:\Users\muaz.gultekin\Desktop\Employees\Employees\bin\Debug\Employees.pdb
+C:\Users\muaz.gultekin\Desktop\Employees\Employees\bin\Debug\Newtonsoft.Json.dll
+C:\Users\muaz.gultekin\Desktop\Employees\Employees\bin\Debug\Newtonsoft.Json.xml
+C:\Users\muaz.gultekin\Desktop\Employees\Employees\obj\Debug\Employees.csproj.AssemblyReference.cache
+C:\Users\muaz.gultekin\Desktop\Employees\Employees\obj\Debug\Employees.FormEdit.resources
+C:\Users\muaz.gultekin\Desktop\Employees\Employees\obj\Debug\Employees.FormMain.resources
+C:\Users\muaz.gultekin\Desktop\Employees\Employees\obj\Debug\Employees.Properties.Resources.resources
+C:\Users\muaz.gultekin\Desktop\Employees\Employees\obj\Debug\Employees.csproj.GenerateResource.cache
+C:\Users\muaz.gultekin\Desktop\Employees\Employees\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+C:\Users\muaz.gultekin\Desktop\Employees\Employees\obj\Debug\Employees.csproj.CopyComplete
+C:\Users\muaz.gultekin\Desktop\Employees\Employees\obj\Debug\Employees.exe
+C:\Users\muaz.gultekin\Desktop\Employees\Employees\obj\Debug\Employees.pdb
